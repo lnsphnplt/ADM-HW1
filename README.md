@@ -1,6 +1,6 @@
 # ADM-HW1
 
-following this [link](https://github.com/lucamaiano/ADM/blob/master/2022/Homework_1/SUBMIT.md) as template
+.md was created following this [link](https://github.com/lucamaiano/ADM/blob/master/2022/Homework_1/SUBMIT.md) as template
 
 ----------------------------
 
@@ -13,6 +13,9 @@ following this [link](https://github.com/lucamaiano/ADM/blob/master/2022/Homewor
 3. __`.ipynb`__:
     > * exercise 1, exercise 2 
     > - headers for topics, ## for code name as defined on hackerrank
+4. __`.pdf`__:
+    > pdf containing screenshots of hackerrank submissions
+
 
 ----------------------------
 
