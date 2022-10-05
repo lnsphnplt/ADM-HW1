@@ -15,7 +15,7 @@
     > - headers for topics, ## for code name as defined on hackerrank
 4. __`.pdf`__:
     > pdf containing screenshots of hackerrank submissions
-    >   ordering is invers to the submission chronology (& listing on exercise sheet)
+    > ordering is __invers__ to the submission chronology (& listing on exercise sheet)
 
 
 ----------------------------
