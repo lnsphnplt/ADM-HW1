@@ -20,7 +20,7 @@
 
 ----------------------------
 
-## notes to be kept markdown syntax
+## notes to be kept on markdown syntax
 
 |   1st  | 2nd |
 |:--------:|:------------:|
