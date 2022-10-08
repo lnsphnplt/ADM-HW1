@@ -15,11 +15,12 @@
     > - headers for topics, ## for code name as defined on hackerrank
 4. __`.pdf`__:
     > pdf containing screenshots of hackerrank submissions
+    > ordering is __invers__ to the submission chronology (& listing on exercise sheet)
 
 
 ----------------------------
 
-## notes to be kept markdown syntax
+## notes to be kept on markdown syntax
 
 |   1st  | 2nd |
 |:--------:|:------------:|
